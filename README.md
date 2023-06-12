@@ -6,6 +6,8 @@ A simple single-page portfolio, made using React.
 
 ![App Screenshot](https://i.imgur.com/XpKBzXt.png)
 
+## Link
+https://grillmast.github.io/react-portfolio/
 
 ## License
 
