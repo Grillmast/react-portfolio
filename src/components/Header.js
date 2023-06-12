@@ -12,7 +12,7 @@ import Footer from './Footer';
 import './Header.css'; 
 
 export default function Header() {
-  const [activeSection, setActiveSection] = useState('about'); // Initial active section
+  const [activeSection, setActiveSection] = useState('about'); // Initial active section is 'about'
 
   const handleSectionChange = (section) => {
     setActiveSection(section);

@@ -8,10 +8,10 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-icons">
-          <a href="https://github.com/your-github-url" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Grillmast" target="_blank" rel="noopener noreferrer">
             <GitHubIcon className="icon" />
           </a>
-          <a href="https://linkedin.com/in/your-linkedin-url" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/cody-lawson-325397267/" target="_blank" rel="noopener noreferrer">
             <LinkedInIcon className="icon" />
           </a>
         </div>
