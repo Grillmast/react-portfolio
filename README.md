@@ -1,6 +1,6 @@
 # React Portfolio
 
-A portfolio, made using React. 
+A simple single-page portfolio, made using React. 
 
 ## Screenshots
 
